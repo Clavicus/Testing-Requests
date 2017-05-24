@@ -2,78 +2,104 @@
   {
       "province":"Alberta",
       "short":"AB",
-      "population":10
+      "population":4067175,
+      "latitude":53.9332706,
+      "longitude":-116.5765035
   }
   ,
   {
       "province":"British Columbia",
       "short":"BC",
-      "population":10
+      "population":4648055,
+      "latitude":53.7266683,
+      "longitude":-127.6476206
   }
   ,
   {
       "province":"Manitoba",
       "short":"MB",
-      "population":10
+      "population":1278365,
+      "latitude":53.7608608,
+      "longitude":-98.8138763
   }
   ,
   {
       "province":"New Brunswick",
       "short":"NB",
-      "population":10
+      "population":747101,
+      "latitude":46.5653163,
+      "longitude":-66.4619164
   }
   ,
   {
       "province":"Newfoundland And Labrador",
       "short":"NL",
-      "population":10
+      "population":519716,
+      "latitude":48.6064556,
+      "longitude":-56.3330408
   }
   ,
   {
       "province":"Nova Scotia",
       "short":"NS",
-      "population":10
+      "population":923598,
+      "latitude":44.6819866,
+      "longitude":-63.744311
   }
   ,
   {
       "province":"Nunavut",
       "short":"NU",
-      "population":10
+      "population":35944,
+      "latitude":70.2997711,
+      "longitude":-83.1075769
   }
   ,
   {
       "province":"Northwest Territories",
       "short":"NT",
-      "population":10
+      "population":41786,
+      "latitude":64.8255441,
+      "longitude":-124.8457334
   }
   ,
   {
       "province":"Ontario",
       "short":"ON",
-      "population":10
+      "population":13448494,
+      "latitude":51.253775,
+      "longitude":-85.3232139
   }
   ,
   {
       "province":"Prince Edward Island",
       "short":"PE",
-      "population":10
+      "population":142907,
+      "latitude":46.510712,
+      "longitude":-63.4168136
   }
   ,
   {
       "province":"Quebec",
       "short":"QC",
-      "population":10
+      "population":8164361,
+      "latitude":52.9399159,
+      "longitude":-73.5491361
   }
   ,
   {
       "province":"Saskatchewan",
       "short":"SK",
-      "population":10
+      "population":1098352,
+      "latitude":52.9399159,
+      "longitude":-106.4508639
   }
   ,
   {
       "province":"Yukon",
       "short":"YT",
-      "population":10
+      "population":35874,
+      "latitude":64.2823274,
+      "longitude":-135
   }
 ]
