@@ -1,7 +1,8 @@
 [
   {
       "province":"Alberta",
-      "short":"AB"
+      "short":"AB",
+      "population":10
   }
   ,
   {
