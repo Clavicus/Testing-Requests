@@ -3,7 +3,8 @@ A repo to host files to test against AJAX
 
 
 ## Canadian Provinces | JSON
-Contains:
+Array of province objects
+Containing:
 * Province Name | _Ex: "**Alberta**"_
 * Province Short Name | _Ex: "**AB**"_
 * Population | _Ex: **4067175**_
