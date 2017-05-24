@@ -2,7 +2,7 @@
 A repo to host files to test against AJAX
 
 
-## Canadian Provinces
+## Canadian Provinces | JSON
 Contains:
 * Province Name | _Ex: "**Alberta**"_
 * Province Short Name | _Ex: "**AB**"_
