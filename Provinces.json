@@ -1,21 +1,66 @@
 [
   {
-    "province":"British Columbia",
-    "short":"BC"
+      "province":"Alberta",
+      "short":"AB"
   }
   ,
   {
-    "province":"Alberta",
-    "short":"AB"
+      "province":"British Columbia",
+      "short":"BC"
   }
   ,
   {
-    "province":"Saskatchewan",
-    "short":"SK"
+      "province":"Manitoba",
+      "short":"MB"
   }
   ,
   {
-    "province":"Manitoba",
-    "short":"MB"
-  } 
+      "province":"New Brunswick",
+      "short":"NB"
+  }
+  ,
+  {
+      "province":"Newfoundland And Labrador",
+      "short":"NL"
+  }
+  ,
+  {
+      "province":"Nova Scotia",
+      "short":"NS"
+  }
+  ,
+  {
+      "province":"Nunavut",
+      "short":"NU"
+  }
+  ,
+  {
+      "province":"Northwest Territories",
+      "short":"NT"
+  }
+  ,
+  {
+      "province":"Ontario",
+      "short":"ON"
+  }
+  ,
+  {
+      "province":"Prince Edward Island",
+      "short":"PE"
+  }
+  ,
+  {
+      "province":"Quebec",
+      "short":"QC"
+  }
+  ,
+  {
+      "province":"Saskatchewan",
+      "short":"SK"
+  }
+  ,
+  {
+      "province":"Yukon",
+      "short":"YT"
+  }
 ]
