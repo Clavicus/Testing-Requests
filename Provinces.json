@@ -7,61 +7,73 @@
   ,
   {
       "province":"British Columbia",
-      "short":"BC"
+      "short":"BC",
+      "population":10
   }
   ,
   {
       "province":"Manitoba",
-      "short":"MB"
+      "short":"MB",
+      "population":10
   }
   ,
   {
       "province":"New Brunswick",
-      "short":"NB"
+      "short":"NB",
+      "population":10
   }
   ,
   {
       "province":"Newfoundland And Labrador",
-      "short":"NL"
+      "short":"NL",
+      "population":10
   }
   ,
   {
       "province":"Nova Scotia",
-      "short":"NS"
+      "short":"NS",
+      "population":10
   }
   ,
   {
       "province":"Nunavut",
-      "short":"NU"
+      "short":"NU",
+      "population":10
   }
   ,
   {
       "province":"Northwest Territories",
-      "short":"NT"
+      "short":"NT",
+      "population":10
   }
   ,
   {
       "province":"Ontario",
-      "short":"ON"
+      "short":"ON",
+      "population":10
   }
   ,
   {
       "province":"Prince Edward Island",
-      "short":"PE"
+      "short":"PE",
+      "population":10
   }
   ,
   {
       "province":"Quebec",
-      "short":"QC"
+      "short":"QC",
+      "population":10
   }
   ,
   {
       "province":"Saskatchewan",
-      "short":"SK"
+      "short":"SK",
+      "population":10
   }
   ,
   {
       "province":"Yukon",
-      "short":"YT"
+      "short":"YT",
+      "population":10
   }
 ]
