@@ -1,0 +1,21 @@
+[
+  {
+    "province":"British Columbia",
+    "short":"BC"
+  }
+  ,
+  {
+    "province":"Alberta",
+    "short":"AB"
+  }
+  ,
+  {
+    "province":"Saskatchewan",
+    "short":"SK"
+  }
+  ,
+  {
+    "province":"Manitoba",
+    "short":"MB"
+  } 
+]
