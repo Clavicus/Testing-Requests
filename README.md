@@ -14,4 +14,4 @@ Containing:
 
 (**Provinces in alphabetical order**)
 
-[Usage Example](https://codepen.io/Hermaeus/pen/VbgxRV "Codepen")
+[Usage Example](https://codepen.io/Hermaeus/pen/QgOyrZ "Codepen")
