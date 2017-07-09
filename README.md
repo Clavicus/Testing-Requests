@@ -1,5 +1,5 @@
 # Testing-Requests
-A repo to host files to test against AJAX
+A repo hosting files to test against AJAX
 
 
 ## Canadian Provinces | JSON
