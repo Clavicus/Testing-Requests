@@ -15,4 +15,6 @@ Containing:
 
 (**Provinces in alphabetical order**)
 
+__Create an issue if you want me to add something else to the objects__
+
 [Usage Example](https://codepen.io/Hermaeus/pen/QgOyrZ "Codepen")
