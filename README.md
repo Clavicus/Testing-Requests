@@ -5,7 +5,7 @@ A repo hosting JSON info files
 ## Canadian Provinces | JSON
 Array of province objects
 Containing:
-* Province Name | `[i].province` | _Ex: "**Alberta**"_
+* Province Name | `[i].name` | _Ex: "**Alberta**"_
 * Province Short Name | `[i].short` | _Ex: "**AB**"_
 * Rank | `[i].rank` | _Ex: **4**_
 * Population | `[i].population` | _Ex: **4067175**_
