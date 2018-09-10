@@ -1,6 +1,6 @@
 [
   {
-      "province" : "Alberta",
+      "name" : "Alberta",
       "short" : "AB",
       "rank" : 4,
       "population" : 4067175,
@@ -10,7 +10,7 @@
   }
   ,
   {
-      "province" : "British Columbia",
+      "name" : "British Columbia",
       "short" : "BC",
       "rank" : 3,
       "population" : 4648055,
@@ -20,7 +20,7 @@
   }
   ,
   {
-      "province" : "Manitoba",
+      "name" : "Manitoba",
       "short" : "MB",
       "rank" : 5,
       "population" : 1278365,
@@ -30,7 +30,7 @@
   }
   ,
   {
-      "province" : "New Brunswick",
+      "name" : "New Brunswick",
       "short" : "NB",
       "rank" : 8,
       "population" : 747101,
@@ -40,7 +40,7 @@
   }
   ,
   {
-      "province" : "Newfoundland And Labrador",
+      "name" : "Newfoundland And Labrador",
       "short" : "NL",
       "rank" : 9,
       "population" : 519716,
@@ -50,7 +50,7 @@
   }
   ,
   {
-      "province" : "Nova Scotia",
+      "name" : "Nova Scotia",
       "short" : "NS",
       "rank" : 7,
       "population" : 923598,
@@ -60,7 +60,7 @@
   }
   ,
   {
-      "province" : "Nunavut",
+      "name" : "Nunavut",
       "short" : "NU",
       "rank" : 12,
       "population" : 35944,
@@ -70,7 +70,7 @@
   }
   ,
   {
-      "province" : "Northwest Territories",
+      "name" : "Northwest Territories",
       "short" : "NT",
       "rank" : 11,
       "population" : 41786,
@@ -80,7 +80,7 @@
   }
   ,
   {
-      "province" : "Ontario",
+      "name" : "Ontario",
       "short" : "ON",
       "rank" : 1,
       "population" : 13448494,
@@ -90,7 +90,7 @@
   }
   ,
   {
-      "province" : "Prince Edward Island",
+      "name" : "Prince Edward Island",
       "short" : "PE",
       "rank" : 10,
       "population" : 142907,
@@ -100,7 +100,7 @@
   }
   ,
   {
-      "province" : "Quebec",
+      "name" : "Quebec",
       "short" : "QC",
       "rank" : 2,
       "population" : 8164361,
@@ -110,7 +110,7 @@
   }
   ,
   {
-      "province" : "Saskatchewan",
+      "name" : "Saskatchewan",
       "short" : "SK",
       "rank" : 6,
       "population" : 1098352,
@@ -120,7 +120,7 @@
   }
   ,
   {
-      "province" : "Yukon",
+      "name" : "Yukon",
       "short" : "YT",
       "rank" : 13,
       "population" : 35874,
